@@ -1,0 +1,4 @@
+#!/bin/bash -p
+
+cp ~/stage/books-crud-servlet-filter-demo/target/servlet-filters.war /Users/greg/DD/
+cp ~/stage/books-crud-servlet-filter-demo/target/servlet-filters.war /usr/local/apache-tomcat-8.5.78/webapps/
